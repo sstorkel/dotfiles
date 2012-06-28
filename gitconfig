@@ -1,0 +1,12 @@
+[core]
+	quotepath = false
+	editor = emacs
+[user]
+	name = Scott Storkel
+	email = sstorkel@devious.com
+[mergetool]
+	keepBackup = true
+[alias]
+	co = checkout
+	unstage = reset HEAD --
+	last = log -1 HEAD
