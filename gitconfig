@@ -3,6 +3,7 @@
 	editor = emacs
 [user]
 	name = Scott Storkel
+	email = sstorkel@devious.com
 [mergetool]
 	keepBackup = true
 [alias]
