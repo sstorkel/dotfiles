@@ -8,4 +8,4 @@ export PATH=$PATH:~/bin:~/pdf2image:.
 
 # MacPorts Installer addition on 2011-08-05_at_21:30:26: adding an appropriate PATH variable for use with MacPorts.
 export PATH=/opt/local/bin:/opt/local/sbin:$PATH
-
+export PATH=$PATH:/Applications/Books/calibre.app/Contents/MacOS
