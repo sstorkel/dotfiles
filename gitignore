@@ -25,6 +25,12 @@
 *~
 *#
 
+#####
+# Cocoapods
+#
+# Allow *.xcconfig settings files to be versioned, but ignore all other Pods files
+Pods/*
+!Pods/Pods.xcconfig
 
 #####
 # OS X temporary files that should never be committed
